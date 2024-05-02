@@ -1,18 +1,18 @@
 import React from 'react'
-import Spinner from '../components/Spinner'
 import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
+import Footer from '../components/Footer' 
 
 const Contact = () => {
   return (
     <>
-    <Spinner/>
     <Navbar/>
   {/* Header Start */}
   <div>
-        <h1 className="text-center m-4" style={{ fontSize: "50px", fontFamily: "serif" }}>
-          Contact Us
-        </h1>
+  <div class="px-4 py-5 text-center title-header">
+          <h1 className=" m-5 text-dark">
+            Contact Us
+          </h1>
+        </div>
       </div>
   {/* Header End */}
   {/* Contact Start */}
@@ -123,10 +123,6 @@ const Contact = () => {
   </div>
   {/* Contact End */}
   <Footer/>
-  {/* Back to Top */}
-  <a href="#" className="btn btn-lg btn-dark btn-lg-square back-to-top">
-    <i className="bi bi-arrow-up" />
-  </a>
 </>
 
   )

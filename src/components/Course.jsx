@@ -7,9 +7,7 @@ const Course = () => {
       <div className="container-xxl py-5">
         <div className="container">
           <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 className="fs-5 bg-white text-center text-dark px-3">
-              Courses
-            </h6>
+            <h1 className="mb-5">Well-Liked Courses</h1>
           </div>
           <div className="row g-4 justify-content-center">
             <div
@@ -22,7 +20,7 @@ const Course = () => {
                     className="img-fluid"
                     style={{ height: "270px" }}
                     src="img/course-1.jpg"
-                    alt=""
+                    alt="course-img"
                   />
                   <div className="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
@@ -42,25 +40,11 @@ const Course = () => {
                   </div>
                 </div>
                 <div className="text-center p-4 pb-0">
-                  <h3 className="mb-0">60KINR + GST</h3>
+                  <h3 className="mb-0">60K INR + GST</h3>
                   <div className="mb-3">⭐⭐⭐⭐⭐</div>
-                  <h5 className="mb-4">
+                  <h5 className="mb-4 pb-4">
                     PGP in Data Science & Machine Learning
                   </h5>
-                </div>
-                <div className="d-flex border-top">
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-user-tie text-dark me-2" />
-                    John
-                  </small>
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-clock text-dark me-2" />
-                    100 Hrs
-                  </small>
-                  <small className="flex-fill text-center py-2">
-                    <i className="fa fa-user text-dark me-2" />
-                    60K Placed Students
-                  </small>
                 </div>
               </div>
             </div>
@@ -74,7 +58,7 @@ const Course = () => {
                     className="img-fluid"
                     style={{ height: "270px" }}
                     src="img/course-2.jpg"
-                    alt=""
+                    alt="course-img"
                   />
                   <div className="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
@@ -94,25 +78,11 @@ const Course = () => {
                   </div>
                 </div>
                 <div className="text-center p-4 pb-0">
-                  <h3 className="mb-0">30KINR + GST</h3>
+                  <h3 className="mb-0">30K INR + GST</h3>
                   <div className="mb-3">⭐⭐⭐⭐⭐</div>
-                  <h5 className="mb-4">
+                  <h5 className="mb-4 pb-4">
                     Certified Specialist in Full Stack Development (.NET)
                   </h5>
-                </div>
-                <div className="d-flex border-top">
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-user-tie text-dark me-2" />
-                    Aleena Elizabeth
-                  </small>
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-clock text-dark me-2" />
-                    120 Hrs
-                  </small>
-                  <small className="flex-fill text-center py-2">
-                    <i className="fa fa-user text-dark me-2" />
-                    10K Placed Students
-                  </small>
                 </div>
               </div>
             </div>
@@ -126,7 +96,7 @@ const Course = () => {
                     className="img-fluid"
                     style={{ height: "270px" }}
                     src="img/course-3.png"
-                    alt=""
+                    alt="course-img"
                   />
                   <div className="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
@@ -146,25 +116,11 @@ const Course = () => {
                   </div>
                 </div>
                 <div className="text-center p-4 pb-0">
-                  <h3 className="mb-0">30KINR + GST</h3>
+                  <h3 className="mb-0">30K INR + GST</h3>
                   <div className="mb-3">⭐⭐⭐⭐⭐</div>
-                  <h5 className="mb-4">
+                  <h5 className="mb-4 pb-4">
                     Certified Specialist in Full Stack Development (MERN)
                   </h5>
-                </div>
-                <div className="d-flex border-top">
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-user-tie text-dark me-2" />
-                    Alina Branton
-                  </small>
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-clock text-dark me-2" />
-                    1.49 Hrs
-                  </small>
-                  <small className="flex-fill text-center py-2">
-                    <i className="fa fa-user text-dark me-2" />
-                    30 Students
-                  </small>
                 </div>
               </div>
             </div>
@@ -178,7 +134,7 @@ const Course = () => {
                     className="img-fluid"
                     style={{ height: "270px" }}
                     src="img/course-4.jpg"
-                    alt=""
+                    alt="course-img"
                   />
                   <div className="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
@@ -198,25 +154,11 @@ const Course = () => {
                   </div>
                 </div>
                 <div className="text-center p-4 pb-0">
-                  <h3 className="mb-0">30KINR + GST</h3>
+                  <h3 className="mb-0">30K INR + GST</h3>
                   <div className="mb-3">⭐⭐⭐⭐⭐</div>
-                  <h5 className="mb-4">
+                  <h5 className="mb-4 pb-4">
                     Certified Specialist in Data Science & Analytics
                   </h5>
-                </div>
-                <div className="d-flex border-top">
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-user-tie text-dark me-2" />
-                    Helen Mariam
-                  </small>
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-clock text-dark me-2" />
-                    100 Hrs
-                  </small>
-                  <small className="flex-fill text-center py-2">
-                    <i className="fa fa-user text-dark me-2" />
-                    10K Placed Students
-                  </small>
                 </div>
               </div>
             </div>
@@ -230,7 +172,7 @@ const Course = () => {
                     className="img-fluid"
                     style={{ height: "270px" }}
                     src="img/course-5.jpg"
-                    alt=""
+                    alt="course-img"
                   />
                   <div className="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
@@ -250,25 +192,11 @@ const Course = () => {
                   </div>
                 </div>
                 <div className="text-center p-4 pb-0">
-                  <h3 className="mb-0">40KINR + GST</h3>
+                  <h3 className="mb-0">40K INR + GST</h3>
                   <div className="mb-3">⭐⭐⭐⭐⭐</div>
-                  <h5 className="mb-4">
+                  <h5 className="mb-4 pb-4">
                     Certified Specialist in Software Testing
                   </h5>
-                </div>
-                <div className="d-flex border-top">
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-user-tie text-dark me-2" />
-                    Michael Ebin
-                  </small>
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-clock text-dark me-2" />
-                    150 Hrs
-                  </small>
-                  <small className="flex-fill text-center py-2">
-                    <i className="fa fa-user text-dark me-2" />
-                    30K Placed Students
-                  </small>
                 </div>
               </div>
             </div>
@@ -282,7 +210,7 @@ const Course = () => {
                     className="img-fluid"
                     style={{ height: "270px" }}
                     src="img/course-6.jpg"
-                    alt=""
+                    alt="course-img"
                   />
                   <div className="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
@@ -302,25 +230,11 @@ const Course = () => {
                   </div>
                 </div>
                 <div className="text-center p-4 pb-0">
-                  <h3 className="mb-0">60KINR + GST</h3>
+                  <h3 className="mb-0">60K INR + GST</h3>
                   <div className="mb-3">⭐⭐⭐⭐⭐</div>
-                  <h5 className="mb-4">
+                  <h5 className="mb-4 pb-4">
                     Web Design &amp; Development Course for Beginners
                   </h5>
-                </div>
-                <div className="d-flex border-top">
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-user-tie text-dark me-2" />
-                    Alexander
-                  </small>
-                  <small className="flex-fill text-center border-end py-2">
-                    <i className="fa fa-clock text-dark me-2" />
-                    150 Hrs
-                  </small>
-                  <small className="flex-fill text-center py-2">
-                    <i className="fa fa-user text-dark me-2" />
-                    30K Placed Students
-                  </small>
                 </div>
               </div>
             </div>

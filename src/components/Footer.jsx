@@ -20,8 +20,25 @@ const Footer = () => {
             </div>
             <div className="col-md-6 text-center text-md-end">
               <div className="footer-menu">
-                <a href="">Home</a>
+                <a href="/">Home</a>
               </div>
+            </div>
+            <div className="d-flex pt-2">
+              <a className="btn btn-outline-light btn-social" href="#">
+                <i className="fab fa-twitter" />
+              </a>
+              <a className="btn btn-outline-light btn-social" href="#">
+                <i className="fab fa-facebook-f" />
+              </a>
+              <a className="btn btn-outline-light btn-social" href="#">
+                <i className="fab fa-whatsapp" />
+              </a>
+              <a className="btn btn-outline-light btn-social" href="#">
+                <i className="fab fa-youtube" />
+              </a>
+              <a className="btn btn-outline-light btn-social" href="#">
+                <i className="fab fa-linkedin-in" />
+              </a>
             </div>
           </div>
         </div>
